@@ -6,9 +6,10 @@
   ### 🚀 Full Stack Developer | 🧠 DSA Learner | 🤖 AI & Web Enthusiast
   
   <p>
-    <a href="https://www.linkedin.com/in/hitesh-thorat07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/hiteshthorat7310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:hiteshthorat07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/Hitesh07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+    <a href="https://leetcode.com/u/Hitesh710/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+    <a href="https://github.com/Hiteshthorat07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   </p>
   
 </div>
@@ -20,8 +21,10 @@
 - 🎓 **Electronics & Telecom Engineering (ENTC)** student at **PICT, Pune**
 - 💻 Passionate about **MERN Stack**, **AI/ML**, and **Web Development**
 - 🧠 Learning **DSA (Binary Trees, Graphs, DP, Sliding Window, etc.)**
-- 👨‍💻 Internships at **Intoura**, **TechnoHacks Solutions**, and **Inspacco**
-- 📄 Worked on **AI-powered course generator (EduGenie)**, **Restaurant Management System**, and **Internal Dashboard**
+- 👨‍💻 Internships at **Intoura**, **TechnoHacks Solutions**, and **Inspacco**  
+  📄 [Internship Certificates](https://drive.google.com/drive/u/0/folders/1xseEKMcIUAf4BgmqAYa0ChXLiDXHbzfm)
+- 📄 Researcher – [Springer LNNS Research Paper](https://drive.google.com/drive/u/0/folders/1MT1zDtGmMuGYOV5kti4PudZK9sDS0vPv)
+- 📑 [My Resume](https://drive.google.com/drive/u/0/folders/1fLIQht4n89Z4Z82Z17-4Nu5MfuAyZoHN)
 - 🎯 Exploring **AI-powered SaaS** & **Blockchain-based Applications**
 
 ---
@@ -54,27 +57,23 @@
 
 ## 🏆 Featured Projects
 
+### 🤖 AI Mock Interview Platform
+**Tech Stack:** `Next.js` `Gemini AI` `Drizzle ORM` `Clerk`  
+> AI-powered interview practice with real-time feedback, webcam recording, and performance analytics  
+> 
+> [🔗 View Project](https://github.com/kadamrudraksha/mock-interview-ai)
+
 ### 🗳️ Polling & Voting System  
 **Tech Stack:** `MERN Stack` `JWT` `MongoDB`  
-> A full-stack polling platform with multiple poll types, secure authentication, and admin controls  
+> Full-stack polling platform with multiple poll types, secure authentication, and admin controls  
 > 
-> [🔗 View Project](https://github.com/Hiteshthorat07/polling-app)
+> [🔗 View Project](https://github.com/kadamrudraksha/Polling-App) 
 
-### 🍴 Restaurant Management System (Internship @Intoura)  
-**Tech Stack:** `React` `Axios`  
-> Table booking, block selection, order management, billing, and admin ordering system  
+### 📄 AI PDF Chatbot
+**Tech Stack:** `RAG Architecture` `LangChain` `QdrantDB` `Next.js`  
+> Intelligent document interaction using vector search and semantic retrieval for context-aware responses  
 > 
-> [🔗 View Project](https://github.com/Hiteshthorat07/restaurant-management)
-
-### 📊 Inspacco Dashboard  
-**Tech Stack:** `MERN Stack` `CSV Visualization`  
-> Internal dashboard for data visualization from CSV files  
-
-### 🎓 EduGenie – AI-Powered Course Generator  
-**Tech Stack:** `Next.js` `TailwindCSS` `PostgreSQL` `Clerk` `Gemini API`  
-> AI-powered platform for auto-generating educational course content  
-> 
-> [🔗 View Project](https://github.com/Hiteshthorat07/edugenie)
+> [🔗 View Project](https://github.com/kadamrudraksha/ai-pdf-rag)
 
 ---
 
@@ -93,11 +92,12 @@
 
 ## 🏅 Achievements & Recognition
 
-- 👨‍💻 Completed **3 internships** (Intoura, Inspacco, TechnoHacks Solutions Pvt. Ltd.)
-- 📄 Researcher – *Worked on Blockchain, NFT Valuation Engine (BE Project)*
+- 👨‍💻 Completed **3 internships** → [Certificates](https://drive.google.com/drive/u/0/folders/1xseEKMcIUAf4BgmqAYa0ChXLiDXHbzfm)
+- 📄 Researcher → [Springer LNNS Research Paper](https://drive.google.com/drive/u/0/folders/1MT1zDtGmMuGYOV5kti4PudZK9sDS0vPv)
+- 📑 Resume → [View Resume](https://drive.google.com/drive/u/0/folders/1fLIQht4n89Z4Z82Z17-4Nu5MfuAyZoHN)
 - 🚀 Developed **AI-Powered SaaS Applications** & **Restaurant Management System**
 - 🎯 Strong foundation in **C++**, **Python**, and **DSA**
-- 📈 Active on **LeetCode** and growing in problem-solving skills
+- 📈 Active on **LeetCode** → [Profile](https://leetcode.com/u/Hitesh710/)
 
 ---
 
@@ -121,8 +121,9 @@
   <h3>💬 Let's Connect and Build Something Amazing Together!</h3>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-website-hitesh.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-thorat07/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteshthorat7310/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiteshthorat07@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hitesh07/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hiteshthorat07)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hitesh710/)
   
 </div>
