@@ -67,13 +67,13 @@
 **Tech Stack:** `MERN Stack` `JWT` `MongoDB`  
 > Full-stack polling platform with multiple poll types, secure authentication, and admin controls  
 > 
-> [🔗 View Project](https://github.com/kadamrudraksha/Polling-App) 
+> [🔗 View Project](https://github.com/Hiteshthorat07/polling-app) 
 
 ### 📄 AI PDF Chatbot
 **Tech Stack:** `RAG Architecture` `LangChain` `QdrantDB` `Next.js`  
 > Intelligent document interaction using vector search and semantic retrieval for context-aware responses  
 > 
-> [🔗 View Project](https://github.com/kadamrudraksha/ai-pdf-rag)
+> [🔗 View Project](https://github.com/Hiteshthorat07/AI-PdfChatBOT)
 
 ---
 
