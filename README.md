@@ -92,7 +92,7 @@
 
 ## 🏅 Achievements & Recognition
 
-- 👨‍💻 Completed **3 internships** → [Certificates](https://drive.google.com/drive/u/0/folders/1xseEKMcIUAf4BgmqAYa0ChXLiDXHbzfm)
+- 👨‍💻 Completed **2 internships** → [Certificates](https://drive.google.com/drive/u/0/folders/1xseEKMcIUAf4BgmqAYa0ChXLiDXHbzfm)
 - 📄 Researcher → [Springer LNNS Research Paper](https://drive.google.com/drive/u/0/folders/1MT1zDtGmMuGYOV5kti4PudZK9sDS0vPv)
 - 📑 Resume → [View Resume](https://drive.google.com/drive/u/0/folders/1fLIQht4n89Z4Z82Z17-4Nu5MfuAyZoHN)
 - 🚀 Developed **AI-Powered SaaS Applications** & **Restaurant Management System**
